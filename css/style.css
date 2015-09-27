@@ -602,7 +602,6 @@ color: #fff;
 	-moz-transition: .5s all;
 	}
 .point-icon .fa-linkedin,.point-icon .glyphicon-envelope,.point-icon .fa-skype{
-   z-index: 9999;
   top: 0px;
   left: 1px;
   font-size: 37px;
