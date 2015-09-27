@@ -71,7 +71,7 @@ display:block;
  color: #162c66;
   text-transform: uppercase;
   text-decoration: none;
-font-family: 'Jockey One', sans-serif;
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 .nav-right ul li:nth-child(2) a {
   padding: 11px 90px;
@@ -152,7 +152,7 @@ padding:80px 0;
 	color: #ced7df;
 	}
 .skill-info h2{
-font-family: 'Jockey One', sans-serif;
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	margin: 0;
 	color: #ced7df;
 	font-size: 44px;
@@ -195,7 +195,7 @@ div#portfolio {
   height: 100%;
 }
 .da-thumbs li a div  h5 {
-  font-family: 'Jockey One', sans-serif;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   color: #323b43;
   font-size: 24px;
   margin: 4.2em 0 0 0;
@@ -203,7 +203,7 @@ div#portfolio {
 }
 /*--//gallery--*/
 .gallery h3{
-  font-family: 'Jockey One', sans-serif;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   margin: 0;
   color: #162C66;
   font-size: 44px;
@@ -281,7 +281,7 @@ width:57%;
   padding: 80px 0;
 }
 .about-info h3 {
-  font-family: 'Jockey One', sans-serif;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   margin: 0;
   color:#9faecb;
   font-size: 44px;
@@ -305,7 +305,7 @@ width:57%;
   line-height: 1.8em;
 }
 .about-grid h4{
-  font-family: 'Jockey One', sans-serif;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   text-align: left;
   color: #d9ffc4;
   font-size: 24px;
@@ -325,7 +325,7 @@ background:#59626a;
 padding:80px 0;
 }
 .ser-head h3{
-  font-family: 'Jockey One', sans-serif;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   margin: 0;
   color: #76b852;
   font-size: 44px;
@@ -502,7 +502,7 @@ color:#76b852;
   margin: 0 auto;
 }
 .news h3 {
-  font-family: 'Jockey One', sans-serif;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   margin: 0;
   color:#323B43;
   font-size: 44px;
@@ -523,7 +523,7 @@ text-align:center;
 		padding:80px 0;
 		}
 .get-info h3{
-  font-family: 'Jockey One', sans-serif;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   margin: 0;
   color: #76b852;
   font-size: 44px;
