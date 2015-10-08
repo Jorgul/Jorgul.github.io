@@ -31,7 +31,6 @@ padding:0;
 	background-image: url("../images/bck.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
-/*background:#ced7df;*/
 }
 /*-- menu --*/
 .nav-right span{
@@ -1199,7 +1198,7 @@ padding:0;
 	width:98%;
 	}
 	span.menu {
-	   display: block;
+	  display: block;
 	  cursor: pointer;
 	  position: relative;
 	  text-align: right;
